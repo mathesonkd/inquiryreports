@@ -13,6 +13,7 @@ to make my own personal Pandora implementation.
 
 ### Resources
 [University of Washington - Michael Rowe](http://courses.cs.washington.edu/courses/csep521/07wi/prj/michael.pdf)
+
 [How Pandora Works](http://computer.howstuffworks.com/internet/basics/pandora.htm)
 
 ####1. Pandora's Classification
